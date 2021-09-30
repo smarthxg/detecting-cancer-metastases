@@ -1,0 +1,5 @@
+Model Weights for Slides with Magnification (3, 4) 
+https://drive.google.com/drive/folders/1hSSGaYS23yZETv_J_1ec2YEaNdG5jOut?usp=sharing
+
+Model Weights for Slides with Magnification (2, 3)
+https://drive.google.com/drive/folders/1S0TEq3veDbKk1rO2bqDxFQcDvKS2MPAp?usp=sharing
